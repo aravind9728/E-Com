@@ -7,3 +7,4 @@ db = SQLAlchemy(app)
 
 from shop.admin import routes
 
+
