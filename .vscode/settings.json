@@ -3,5 +3,5 @@
         "--load-plugins",
         "pylint-flask"
     ],
-    "python.pythonPath": "C:\\Users\\ELCOT\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
+    "python.pythonPath": "C:\\Users\\css118689.CSSCORP\\AppData\\Local\\Programs\\Python\\Python37\\python.exe"
 }
